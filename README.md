@@ -19,7 +19,7 @@ You can install it manually. Just do
 <script src='threex.depthoffield.js'></script>
 ```
 
-You can install with [bower](http://bower.io/).
+You can install with [bower](http://bower.io/). 
 
 ```bash
 bower install threex.depthoffield
